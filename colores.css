@@ -1,0 +1,26 @@
+.rojo{
+    background: red;
+    height: 50px;
+    width: 100px;
+}
+.blanco{
+    background: white;
+        height: 50px;
+        width: 100px;
+}
+.yellow{
+    color: yellow;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.black{
+    color: black;
+    align-items: center;
+}
+span.red{      
+    margin-left: 30px;
+}
